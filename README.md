@@ -1,19 +1,30 @@
 # HeyThere
 
 Hi there, I'm Shrushti Shrivastav    
-Welcome to my GitHub! I'm a final-year student passionate about learning DevOps and improving my skills in cloud technologies, automation, and software development. Currently, I’m exploring different DevOps tools and practices to streamline development processes and enhance collaboration between development and operations teams.    
+Welcome to my GitHub! I’m a BCA graduate (June 2025) and an aspiring DevOps Engineerfocused on building, automating, and deploying scalable systems using modern cloud and DevOps tools. I believe in learning by building — every repo here reflects practical work, not just theory.    
 
-🚀 About Me:  
-🏫 Currently a final-year student  pursuing a BCA(Bachelor of computer application) at DYPIU.  
-💻 Focused on learning DevOps practices and tools such as Docker, Jenkins, Kubernetes, Terraform, and CI/CD pipelines.  
-🎯 Aiming to build efficient systems that integrate development and operations seamlessly.  
-📚 Always eager to learn new technologies, contribute to open-source projects, and improve my skills.  
+🚀 About Me
+🎓 BCA Graduate – DY Patil International University (2025)
+💼 Cloud/DevOps support Intern – (Scitara Corporation, 11/2025 – present)
+☁️ Hands-on with real AWS infrastructure, automation, and CI/CD workflows
+🛠️ Passionate about cloud computing, DevOps culture, and infrastructure as code
+📚 Actively sharpening skills through projects, labs, and production-like setups
+
 
 🔧 Skills & Tools:  
 Programming Languages: Python (Beginner)  
-DevOps Tools: Docker, Kubernetes, Git, Ansible (Beginner)  
+DevOps: Docker, Kubernetes (learning & fundamentals), Terraform.
 Cloud Platforms: AWS, Azure (Beginner)  
-Operating Systems: Linux  
+Systems: Linux, Networking Basics
+
+📌 What You’ll Find Here
+🔹 Terraform infrastructure labs
+🔹 AWS networking & ALB projects
+🔹 Docker container builds
+🔹 CI/CD demos
+🔹 DevOps learning notes & experiments
+
+🔥 I’m aiming to grow as a junior DevOps engineer where I can contribute to real systems while continuing to sharpen my cloud and automation skills.
 
 📫 How to reach me:  
 📧 Email: shrushtishree04@gmail.com  
