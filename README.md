@@ -1,58 +1,20 @@
-# 👋 Hey There
-
-Hi there, I'm **Shrushti Shrivastav**  
-Welcome to my GitHub! I’m a **BCA graduate (June 2025)** and an aspiring **DevOps Engineer** focused on building, automating, and deploying scalable systems using modern cloud and DevOps tools.  
-I believe in learning by building — every repo here reflects practical work, not just theory.
-
----
-
 ## 🚀 About Me
 
-🎓 **BCA Graduate** – DY Patil International University (2025)  
-💼 **Cloud / DevOps Support Intern** – Scitara Corporation *(11/2025 – Present)*  
-☁️ Hands-on with real AWS infrastructure, automation, and CI/CD workflows  
-🛠️ Passionate about cloud computing, DevOps culture, and Infrastructure as Code  
-📚 Actively sharpening skills through projects, labs, and production-like setups  
+Hi there, I'm **Shrushti Shrivastav**  
+Welcome to my GitHub!
 
----
+🎓 **Bachelor of Computer Applications (BCA)** – DY Patil International University (2025) | CGPA: **9.16**
 
-## 🔧 Skills & Tools
+💼 Started my professional journey as a **DevOps Intern** at **Scitara Corporation** under the **Enterprise Solutions Group (ESG)**, gaining exposure to enterprise-scale cloud operations and production environments.
 
-### Programming
-- Python *(Beginner)*
+🚀 Currently working as a **Consultant at Scitara Corporation**, contributing to both **Enterprise Solutions Group (ESG)** and **Product Support Specalist (PSS)** teams.
 
-### DevOps
-- Docker  
-- Kubernetes *(Learning & fundamentals)*  
-- Terraform  
+☁️ Enthusiastic about cloud technologies, infrastructure automation, CI/CD practices, and building reliable, scalable solutions.
 
-### Cloud Platforms
-- AWS  
-- Azure *(Beginner)*  
-
-### Systems
-- Linux  
-- Networking Basics  
-
----
-
-## 📌 What You’ll Find Here
-
-🔹 Terraform infrastructure labs  
-🔹 AWS networking & ALB projects  
-🔹 Docker container builds  
-🔹 CI/CD demos  
-🔹 DevOps learning notes & experiments  
+📚 Continuously learning and expanding my expertise in AWS, DevOps tools, automation, and modern cloud-native technologies.
 
 ---
 
 ## 🔥 Career Goal
 
-I’m aiming to grow as a **Junior DevOps Engineer** where I can contribute to real systems while continuing to sharpen my cloud and automation skills.
-
----
-
-## 📫 How to Reach Me
-
-📧 **Email:** shrushtishree04@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/shrushti-shrivastav-227a1b289
+My goal is to build a strong career in **Cloud and DevOps Engineering**, contributing to enterprise-grade infrastructure, automation initiatives, and cloud-native solutions while continuously learning emerging technologies and industry best practices.
